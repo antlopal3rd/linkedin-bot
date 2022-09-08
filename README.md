@@ -1,2 +1,2 @@
 # linkedin-bot
-A Linkedin Bot to automate connecting with people built on Selenium
+A bot to automate connecting with people through Linkedin built on Selenium.
